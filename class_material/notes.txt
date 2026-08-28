@@ -1,0 +1,12 @@
+pdb file is easily loadable, its not that big 
+
+class is used when we need to provide user with some set of function for a certain object.
+
+class pdb_analysis:
+  def function1 
+  def function2 
+
+import pdb_analysis as pa 
+ and get started to use it  
+
+
