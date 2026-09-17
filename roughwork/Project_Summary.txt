@@ -1,0 +1,74 @@
+PROJECT SUMMARY
+
+Project 1: Quick Bed Sort
+Question:
+- Merge BED files for each sample, filter chromosomes using a selection file, and sort according to the chromosome order in the selection file.
+
+Required Files:
+- BED files (*.bed.gz)
+- Chromosome selection file (e.g., standard_selection.tsv)
+
+Output:
+- Sorted BED file in sorted_bed_file_per_sample/
+
+Output Format:
+- BED file
+
+Simple Explanation:
+Combine the sample BED files, keep only the required chromosomes, and save them in the same order as listed in the selection file.
+
+
+Project 2: Rescale to Reference
+Question:
+- Resample the query BED file so its fragment-length distribution matches the reference distribution.
+
+Required Files:
+- query.bed.gz
+- reference.hist
+
+Output:
+- Rescaled BED file or sampled fragment distribution
+
+Output Format:
+- BED file and/or histogram
+
+Simple Explanation:
+Randomly sample fragments from the query data until its fragment-length distribution closely matches the reference.
+
+
+Project 3: V-plot
+Question:
+- Generate a matrix file for plotting a V-plot using Gnuplot.
+
+Required Files:
+- Input data from the provided Figshare dataset
+
+Output:
+- Matrix file
+
+Output Format:
+- Either:
+  * Wide format (fragment length + offset columns)
+  * Long format (x, y, z)
+
+Simple Explanation:
+Count how many fragments of each length occur at each offset and save the counts in a matrix for visualization.
+
+
+Project 4: TCGA RNA-seq Data Analysis
+Question:
+- Generate a boxplot of NKX2-1 gene expression for Primary Tumor (PT) and Solid Tissue Normal (STN).
+
+Required Files:
+- gdc_sample_sheet.tsv
+- gdc_manifest.txt
+- tcga_data.tar.gz (extract first)
+
+Output:
+- Gene expression boxplot
+
+Output Format:
+- Boxplot showing Log2(TPM + 1)
+
+Simple Explanation:
+Extract NKX2-1 TPM values from RNA-seq files, separate samples into PT and STN using the sample sheet, calculate Log2(TPM+1), and create a comparison boxplot.
