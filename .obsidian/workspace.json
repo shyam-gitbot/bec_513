@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "49f5dd5d58b9d7b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "afab465bc759508e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d4160cd8e15f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R_tut/Notes-for-R.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes-for-R"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59eea830e4b8be18",
+    "type": "split",
+    "children": [
+      {
+        "id": "f616dad257648111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e81bf64da1376d23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3102852c53f5f79d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34a8d039cfae25e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd8da796ec06a00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d18d82709c1f418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39226f57aa965c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R_tut/Notes-for-R.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ebeb4e89bb75f104",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R_tut/Notes-for-R.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6a07008c4b570c38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a4a735f8ba592aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5610ab55b8c193c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R_tut/Notes-for-R.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "75d4160cd8e15f28",
+  "lastOpenFiles": [
+    "R_tut/data/SraRunInfo_SRP033351.csv",
+    "R_tut/data/GSE52778_series_matrix.txt",
+    "R_tut/data/grch38_genes.4btABuC9.csv.gz.part",
+    "R_tut/data/grch38_genes.csv.gz",
+    "R_tut/data/airway_samples.csv",
+    "R_tut/data/airway_expressed_long.HgpqQZ9o.csv.gz.part",
+    "R_tut/data/airway_expressed_long.csv.gz",
+    "R_tut/data/airway_counts.IPDyFK-C.csv.gz.part",
+    "R_tut/data/airway_counts.csv.gz",
+    "R_tut/data/penguins_raw.csv",
+    "R_tut/data/penguins_clean.csv",
+    "class_material/sept_24_26/notes.md",
+    "R_tut/Notes-for-R.md"
+  ]
+}
