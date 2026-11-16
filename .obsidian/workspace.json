@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afab465bc759508e",
+        "id": "164bdeb6e0731197",
         "type": "tabs",
         "children": [
           {
-            "id": "75d4160cd8e15f28",
+            "id": "f9ae5d38d64a2fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R_tut/Notes-for-R.md",
+                "file": "Struct Bio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes-for-R"
+              "title": "Struct Bio"
             }
           }
         ]
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R_tut/Notes-for-R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R_tut/Notes-for-R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R_tut/Notes-for-R.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,20 +185,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "75d4160cd8e15f28",
+  "active": "f9ae5d38d64a2fb4",
   "lastOpenFiles": [
-    "R_tut/data/SraRunInfo_SRP033351.csv",
-    "R_tut/data/GSE52778_series_matrix.txt",
-    "R_tut/data/grch38_genes.4btABuC9.csv.gz.part",
-    "R_tut/data/grch38_genes.csv.gz",
-    "R_tut/data/airway_samples.csv",
-    "R_tut/data/airway_expressed_long.HgpqQZ9o.csv.gz.part",
-    "R_tut/data/airway_expressed_long.csv.gz",
-    "R_tut/data/airway_counts.IPDyFK-C.csv.gz.part",
-    "R_tut/data/airway_counts.csv.gz",
-    "R_tut/data/penguins_raw.csv",
-    "R_tut/data/penguins_clean.csv",
-    "class_material/sept_24_26/notes.md",
-    "R_tut/Notes-for-R.md"
+    "Pasted image 20261029103425.png",
+    "R_tut/Notes-for-R.md",
+    "R_tut/Snakemake.md",
+    "Struct Bio.md",
+    "Untitled",
+    "R_tut/resume-builder-skill/skill/references/format-and-structure.md",
+    "R_tut/resume-builder-skill/skill/references/common-mistakes.md",
+    "R_tut/resume-builder-skill/skill/references/bullet-writing-guide.md",
+    "R_tut/resume-builder-skill/skill/references/ats-and-keywords.md",
+    "R_tut/resume-builder-skill/skill/references",
+    "R_tut/resume-builder-skill/skill/SKILL.md",
+    "R_tut/resume-builder-skill/skill",
+    "R_tut/resume-builder-skill/resume-builder.skill",
+    "R_tut/resume-builder-skill/examples/Example_Resume_EN.pdf",
+    "R_tut/resume-builder-skill/examples/Example_Resume_EN.docx",
+    "R_tut/resume-builder-skill/examples",
+    "R_tut/resume-builder-skill/docs/SOURCES.md",
+    "R_tut/resume-builder-skill/docs/INSTALLATION.md",
+    "R_tut/resume-builder-skill/docs",
+    "R_tut/resume-builder-skill/README.md",
+    "R_tut/resume-builder-skill/LICENSE",
+    "R_tut/resume-builder-skill",
+    "class_material/sept_24_26/notes.md"
   ]
 }

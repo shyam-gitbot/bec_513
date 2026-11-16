@@ -6,3 +6,9 @@ input_con <- file("stdin")
 while (input_con){
   print(line)
 }
+
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install(c("biomaRt", "Gviz", "rtracklayer"))
